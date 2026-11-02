@@ -1,0 +1,15 @@
+a) +48 + (+23)
+
+Operand A: 00110000
+Operand B: 00010111
+Result in binary: 01000111
+Result in decimal: 71
+Arithmetic Overflow: No
+
+b) (-46) - (-29)
+
+Operand A: 11010010
+Operand B: 11100011
+Result in binary: 11101111
+Result in decimal: -17
+Arithmetic Overflow: No
