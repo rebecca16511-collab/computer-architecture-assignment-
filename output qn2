@@ -1,0 +1,13 @@
+Rotate Right Without Carry (ROR)
+Original: 11010101
+Step 1 : 11101010
+Step 2 : 01110101
+Final Result: 01110101
+
+Rotate Right With Carry (RCR)
+Original: 11010101
+Initial Carry: 0
+Step 1 : 01101010 Carry: 1
+Step 2 : 10110101 Carry: 0
+Final Result: 10110101
+Final Carry: 0
